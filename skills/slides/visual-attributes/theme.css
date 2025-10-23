@@ -152,7 +152,7 @@
 
 .agenda-item {
   display: flex;
-  align-items: left;
+  align-items: flex-start;
   background: rgba(248, 249, 250, 0.95);
   padding: 15px 20px;
   border-radius: 8px;
@@ -181,6 +181,7 @@
 
 .agenda-content {
   flex: 1;
+  text-align: left;
 }
 
 .agenda-title {
@@ -188,12 +189,14 @@
   font-size: 16px;
   margin-bottom: 4px;
   color: #333;
+  text-align: left;
 }
 
 .agenda-description {
   font-size: 14px;
   color: #666;
   line-height: 1.4;
+  text-align: left;
 }
 
 /* Responsive agenda styles */
