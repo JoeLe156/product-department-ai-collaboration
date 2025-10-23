@@ -21,6 +21,7 @@ Legend
 |---|---|---|
 | Signal scanning & insight synthesis | A/C | R |
 | Competitive/market research synthesis | A/C | R |
+| Customer feedback review & analysis  | A/C  | R |
 
 ### 3) Roadmapping & Prioritization
 
