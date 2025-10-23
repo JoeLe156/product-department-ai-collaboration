@@ -130,7 +130,7 @@ Deliverables:
 
 > Do an extensive research on the provided topics first and put it to skills\slides\research
 > Generate the **detailed slide outline first** (titles + 1–2 core bullets per slide) based on the above structure and constraints and put it to skills\slides\output
-> Refer to skills\slides\visual-presentation for slide visual attributes
+> Refer to skills\slides\visual-attributes for slide visual attributes
 > Add all kinds of visualizations to skills\slides\visualizations
 > Wait for my confirmation before creating full slides.
 > Each outline item must already list **preliminary sources** (organization + publication name).
