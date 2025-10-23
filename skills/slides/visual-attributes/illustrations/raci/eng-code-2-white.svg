@@ -1,0 +1,38 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="8" y="16" width="48" height="32" rx="4" 
+  fill="none"
+  stroke="white"
+  stroke-width="2"/>
+<path d="M20 28L24 32L20 36" 
+  fill="none"
+  stroke="white"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"/>
+<path d="M44 28L40 32L44 36" 
+  fill="none"
+  stroke="white"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"/>
+<path d="M28 24L36 24" 
+  fill="none"
+  stroke="white"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"/>
+<path d="M28 36L36 36" 
+  fill="none"
+  stroke="white"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"/>
+<circle cx="32" cy="12" r="2" 
+  fill="white"/>
+<path d="M32 14V16" 
+  fill="none"
+  stroke="white"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"/>
+</svg>

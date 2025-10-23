@@ -1,0 +1,122 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="strategyGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#20c997;stop-opacity:0.6" />
+    </linearGradient>
+    <linearGradient id="dataGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffc107;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#fd7e14;stop-opacity:0.6" />
+    </linearGradient>
+    <linearGradient id="orchestrationGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#e83e8c;stop-opacity:0.6" />
+    </linearGradient>
+    <linearGradient id="ethicsGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6f42c1;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#8e44ad;stop-opacity:0.6" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)" />
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#333">
+    PM Skills Evolution 2025-2030
+  </text>
+  
+  <!-- Timeline -->
+  <line x1="100" y1="100" x2="700" y2="100" stroke="#333" stroke-width="3" />
+  <circle cx="200" cy="100" r="8" fill="#28a745" />
+  <circle cx="400" cy="100" r="8" fill="#ffc107" />
+  <circle cx="600" cy="100" r="8" fill="#dc3545" />
+  
+  <text x="200" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">2025</text>
+  <text x="400" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">2026</text>
+  <text x="600" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">2030</text>
+  
+  <!-- Strategy & Vision -->
+  <rect x="50" y="150" width="300" height="80" rx="10" fill="url(#strategyGradient)" stroke="#28a745" stroke-width="2" />
+  <text x="200" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    Strategy &amp; Vision
+  </text>
+  <text x="200" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    AI-assisted planning → Cross-functional collaboration → Strategic leadership
+  </text>
+  <text x="200" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Foundation → Intermediate → Expert
+  </text>
+  
+  <!-- Data & Analytics -->
+  <rect x="450" y="150" width="300" height="80" rx="10" fill="url(#dataGradient)" stroke="#ffc107" stroke-width="2" />
+  <text x="600" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+    Data &amp; Analytics
+  </text>
+  <text x="600" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Tool proficiency → Advanced interpretation → AI insights mastery
+  </text>
+  <text x="600" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    Foundation → Intermediate → Expert
+  </text>
+  
+  <!-- Orchestration & Leadership -->
+  <rect x="50" y="280" width="300" height="80" rx="10" fill="url(#orchestrationGradient)" stroke="#dc3545" stroke-width="2" />
+  <text x="200" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    Orchestration &amp; Leadership
+  </text>
+  <text x="200" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Basic team management → Process optimization → AI transformation
+  </text>
+  <text x="200" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Foundation → Intermediate → Expert
+  </text>
+  
+  <!-- Evaluation & Ethics -->
+  <rect x="450" y="280" width="300" height="80" rx="10" fill="url(#ethicsGradient)" stroke="#6f42c1" stroke-width="2" />
+  <text x="600" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    Evaluation &amp; Ethics
+  </text>
+  <text x="600" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Output validation → Ethical implementation → AI governance
+  </text>
+  <text x="600" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Foundation → Intermediate → Expert
+  </text>
+  
+  <!-- Skill progression indicators -->
+  <g id="skillIndicators">
+    <!-- Strategy progression -->
+    <rect x="80" y="400" width="60" height="20" rx="5" fill="#28a745" opacity="0.3" />
+    <rect x="160" y="400" width="60" height="20" rx="5" fill="#28a745" opacity="0.6" />
+    <rect x="240" y="400" width="60" height="20" rx="5" fill="#28a745" opacity="1" />
+    
+    <!-- Data progression -->
+    <rect x="480" y="400" width="60" height="20" rx="5" fill="#ffc107" opacity="0.3" />
+    <rect x="560" y="400" width="60" height="20" rx="5" fill="#ffc107" opacity="0.6" />
+    <rect x="640" y="400" width="60" height="20" rx="5" fill="#ffc107" opacity="1" />
+    
+    <!-- Orchestration progression -->
+    <rect x="80" y="450" width="60" height="20" rx="5" fill="#dc3545" opacity="0.3" />
+    <rect x="160" y="450" width="60" height="20" rx="5" fill="#dc3545" opacity="0.6" />
+    <rect x="240" y="450" width="60" height="20" rx="5" fill="#dc3545" opacity="1" />
+    
+    <!-- Ethics progression -->
+    <rect x="480" y="450" width="60" height="20" rx="5" fill="#6f42c1" opacity="0.3" />
+    <rect x="560" y="450" width="60" height="20" rx="5" fill="#6f42c1" opacity="0.6" />
+    <rect x="640" y="450" width="60" height="20" rx="5" fill="#6f42c1" opacity="1" />
+  </g>
+  
+  <!-- Legend -->
+  <text x="50" y="520" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Skill Level:</text>
+  <rect x="150" y="510" width="20" height="15" rx="3" fill="#333" opacity="0.3" />
+  <text x="180" y="522" font-family="Arial, sans-serif" font-size="12" fill="#333">Foundation</text>
+  <rect x="250" y="510" width="20" height="15" rx="3" fill="#333" opacity="0.6" />
+  <text x="280" y="522" font-family="Arial, sans-serif" font-size="12" fill="#333">Intermediate</text>
+  <rect x="350" y="510" width="20" height="15" rx="3" fill="#333" opacity="1" />
+  <text x="380" y="522" font-family="Arial, sans-serif" font-size="12" fill="#333">Expert</text>
+</svg>
